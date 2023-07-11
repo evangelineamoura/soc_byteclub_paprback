@@ -2,10 +2,13 @@
 # Paprback
 
 A community platform to connect local people to discover and share second-hand books.
+Feel free to click on the link below and have a look!
 
 https://bcpaprback.netlify.app
 
+
 ![Screen Shot 2023-07-10 at 22 02 57](https://github.com/evangelineamoura/soc_byteclub_paprback/assets/124540969/f8977512-ae40-4374-83de-7376e1fdd5dc)
+
 
 
 ## Features
